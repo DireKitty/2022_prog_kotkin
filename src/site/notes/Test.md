@@ -70,8 +70,7 @@
 ###### Отношения между сущностями
 
 В виде схемы  
-![Pasted image 20240910132339.png](/img/user/Pasted%20image%2020240910132339.png)
-
+!![Pasted image 20240910133058.png](/img/user/Pasted%20image%2020240910133058.png)
 #### Источники данных
 Названия для баров, имена людей, адреса взяты с сайтов:
 https://thestoryshack.com/tools/bar-names-generator/
