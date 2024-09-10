@@ -14,7 +14,7 @@
 
 - [x]  Не менее 3 сущностей;
 - [x]  Сущности связаны отношениями (один ко многим, многие к одному и т.п.);
-- [ ]  Должны быть вложенные сущности;
+- [x]  Должны быть вложенные сущности;
 - [x]  Подключены медиа;
 - [ ]  Требуется аутентификация;
 - [ ]  Есть уровни доступа и, соответственно, роли;
@@ -69,8 +69,16 @@
 ![Pasted image 20240903151020.png](https://edu-garden.vercel.app/img/user/%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B8%D0%9C%D0%9F/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/attachments/Pasted%20image%2020240903151020.png)
 
 #### Источники данных
+Названия для баров, имена людей, адреса взяты с сайтов:
+https://thestoryshack.com/tools/bar-names-generator/
+https://usaddressgenerator.com
+https://randomus.ru/name?type=101&sex=0&count=10
 
-Описание медиа, и т.п.
+Все изображения взяты с сайта: https://yandex.ru/images
+
+Рецепты напитков и ингредиенты взяты с сайта: https://ru.inshaker.com
+
+
 
 #### Порядок доступа к данным
 
@@ -82,3 +90,7 @@
 
 
 #### Особые указания, требования, комментарии
+- To this URL: https://<YOUR_DOMAIN>/api/<YOUR_CT>
+- With the header: Authorization: bearer <YOUR_API_TOKEN>
+
+
